@@ -1,0 +1,453 @@
+,Unnamed: 0,index,Question,lucas_categoria,lucas_justificativa,lucas_resposta,Nome_Tópico,llama_categoria,llama_justificativa,llama_resposta,qwen_categoria,qwen_justificativa,groundtruth,groundtruth_modelo
+0,0,612,Por que temos tão pouco conteúdo em pt-br sobre FPGA/SoC?,2.0,"Precisa de mais contexto para descobrir do que a pergunta se refere, mas ainda e objetiva",Há pouco conteúdo em pt-BR sobre FPGA/SoC porque é um nicho técnico dominado por materiais em inglês e com pouca comunidade local.,0_faculdade_fazer_emprego_trabalho,grau 2,falta de dados especificos,"a quantidade de conteudo depende de varios fatores como interesse do publico, especializacao dos autores e demanda do mercado",grau 3,pergunta opinativa e aberta,Há pouco conteúdo em pt-BR sobre FPGA/SoC porque é um nicho técnico dominado por materiais em inglês e com pouca comunidade local.,"
+A escassez de conteúdo em português sobre FPGA/SoC se deve a diversos fatores, incluindo a baixa demanda do mercado brasileiro, o alto custo de desenvolvimento e a concentração de materiais em inglês, idioma predominante na literatura técnica e comunidades de desenvolvedores da área. Além disso, a complexidade inerente aos FPGAs/SoCs exige conhecimento especializado, limitando a produção de conteúdo por um público amplo."
+1,1,27,Como posso somar valores únicos de uma coluna em uma base de dados no Data Studio?,1.0,,Use SUM(UNIQUE(coluna)) ou crie uma métrica com SUM_DISTINCT no Data Studio.,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta objetiva,nao se aplica,grau 3,pergunta nao relacionada ao tema,Use SUM(UNIQUE(coluna)) ou crie uma métrica com SUM_DISTINCT no Data Studio.,"
+Utilize a função `COUNT_DISTINCT` no Data Studio para somar valores únicos de uma coluna."
+2,2,303,como criar uma pcb,2.0,O que é pcb? Precisa de mais contexto para ter uma resposta precisa,Use softwares como KiCad ou EasyEDA; desenhe o esquema e gere os arquivos Gerber para fabricação.,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao se aplica,grau 3,pergunta nao relacionada ao tema e muito aberta,Use softwares como KiCad ou EasyEDA; desenhe o esquema e gere os arquivos Gerber para fabricação.,"
+O processo de criação de uma PCB envolve as seguintes etapas:
+
+1.  **Design do esquema elétrico:** Crie o diagrama esquemático do circuito usando um software de design de PCB.
+2.  **Layout da PCB:** Transforme o esquema elétrico em um layout físico, posicionando os componentes e roteando as trilhas.
+3.  **Geração de arquivos Gerber:** Exporte os arquivos Gerber, que contêm as informações necessárias para a fabricação da PCB.
+4.  **Fabricação:** Envie os arquivos Gerber para uma empresa de fabricação de PCB.
+5.  **Montagem:** Solde os componentes na PCB, manualmente ou utilizando equipamentos automatizados.
+6.  **Teste:** Verifique se a PCB está funcionando corretamente.
+
+Existem diversos softwares para design de PCB, como Eagle, KiCad, Altium Designer e EasyEDA."
+3,3,564,Onde encontro cursos bons e gratuitos? (Sem ser na enap),2.0,Cursos sobre o que? Pode ser mais objetiva,"Plataformas como Coursera, edX, Udemy (gratuitos com cupons) e YouTube têm ótimos cursos.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,existem varias plataformas online com cursos gratuitos mas a qualidade pode variar,grau 3,pergunta vaga e opinativa,"Plataformas como Coursera, edX, Udemy (gratuitos com cupons) e YouTube têm ótimos cursos.","
+- **Coursera:** Oferece diversos cursos gratuitos de universidades e instituições renomadas, com opção de certificado pago.
+- **edX:** Similar ao Coursera, com foco em cursos de universidades de ponta.
+- **FGV Online:** Cursos gratuitos em diversas áreas, com certificado opcional pago.
+- **Veduca:** Plataforma com cursos de universidades brasileiras e internacionais, muitos gratuitos.
+- **Prime Cursos:** Variedade de cursos online gratuitos com certificado pago.
+- **Udemy:** Possui uma seção de cursos gratuitos, embora a maioria seja paga.
+- **LinkedIn Learning:** Oferece um mês de acesso gratuito com diversos cursos.
+- **Cursos Senai:** Cursos online gratuitos em diversas áreas industriais.
+- **Google Skillshop:** Cursos gratuitos sobre ferramentas do Google.
+- **Microsoft Learn:** Cursos gratuitos sobre tecnologias Microsoft.
+- **YouTube:** Canais educativos oferecem conteúdo gratuito em diversas áreas."
+4,4,76,Preciso de um texto tipo capítulo de livro sobre como escrever um resumo de tcc,1.0,,"Escreva de forma clara, resumindo objetivos, metodologia, resultados e conclusões; cite autores relevantes.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao e possivel responder de forma objetiva a essa pergunta,grau 3,pergunta pede um texto extenso e nao uma resposta objetiva,"Escreva de forma clara, resumindo objetivos, metodologia, resultados e conclusões; cite autores relevantes.","
+
+## Escrevendo o Resumo do TCC: A Síntese da Sua Pesquisa
+
+O resumo do Trabalho de Conclusão de Curso (TCC) é uma versão concisa e completa do seu trabalho, crucial para indexação em bases de dados e para que outros pesquisadores compreendam a essência da sua pesquisa. Ele deve ser autossuficiente, ou seja, compreensível sem a necessidade de ler o TCC completo.
+
+**Estrutura e Conteúdo:**
+
+Um bom resumo geralmente segue a seguinte estrutura:
+
+1.  **Contextualização:** Apresente brevemente o tema geral da pesquisa e sua relevância.
+2.  **Objetivo:** Declare claramente o objetivo principal do seu TCC.
+3.  **Metodologia:** Descreva os métodos utilizados para alcançar o objetivo (tipo de pesquisa, coleta e análise de dados).
+4.  **Resultados:** Apresente os principais resultados obtidos de forma objetiva e concisa.
+5.  **Conclusão:** Indique as principais conclusões e implicações da sua pesquisa.
+
+**Dicas Importantes:**
+
+*   **Palavras-chave:** Inclua de 3 a 5 palavras-chave que representem os temas centrais do seu trabalho.
+*   **Extensão:** Geralmente, o resumo deve ter entre 150 e 500 palavras, dependendo das normas da sua instituição.
+*   **Linguagem:** Utilize linguagem clara, objetiva e formal, evitando jargões excessivos.
+*   **Tempo Verbal:** Predomine o passado para descrever o que foi feito e o presente para apresentar conclusões gerais.
+*   **Revisão:** Revise cuidadosamente a gramática, ortografia e a clareza do texto.
+
+**O que evitar:**
+
+*   Citações bibliográficas.
+*   Informações que não constem no TCC.
+*   Apresentação de novos resultados ou conclusões.
+*   Repetição excessiva de informações.
+
+Um resumo bem elaborado é a porta de entrada para o seu TCC, despertando o interesse de leitores e garantindo que sua pesquisa seja devidamente reconhecida."
+5,5,361,Como começar minha carreira de programação?,2.0,"Pode existir uma resposta objetiva, mas precisa de mais contexto. Que linguagem? etc","Comece com lógica de programação e Python, depois pratique com projetos simples.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"estude linguagens de programacao, faça projetos praticos e busque oportunidades de estagio ou trabalho",grau 2,depende de contexto pessoal,"Comece com lógica de programação e Python, depois pratique com projetos simples.","
+1.  **Escolha uma linguagem:** Python, JavaScript e Java são boas opções para iniciantes.
+2.  **Aprenda o básico:** Utilize plataformas online como Codecademy, Coursera, Udemy ou freeCodeCamp.
+3.  **Pratique:** Desenvolva pequenos projetos para aplicar o conhecimento adquirido.
+4.  **Crie um portfólio:** Hospede seus projetos no GitHub para demonstrar suas habilidades.
+5.  **Networking:** Participe de comunidades online e eventos da área.
+6.  **Busque oportunidades:** Comece com estágios, trabalhos freelance ou posições de nível júnior."
+6,6,565,"como lidar com as loucuras de arquivos pdf, engenharia de dados/extração de dados/integração",3.0,Pergunta aberta e sem objetividade,"Use ferramentas de ETL (Airbyte, Talend, Python com Pandas) e controle versões dos scripts.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao ha uma resposta objetiva para lidar com todas as situacoes de arquivos pdf em engenharia de dados,grau 3,pergunta vaga e opinativa,"Use ferramentas de ETL (Airbyte, Talend, Python com Pandas) e controle versões dos scripts.","Devido à natureza não estruturada dos PDFs, a extração de dados pode ser complexa. Utilize bibliotecas como PyPDF2, pdfminer.six ou Tesseract OCR (para PDFs digitalizados). Para engenharia de dados, considere converter PDFs para formatos estruturados (CSV, JSON) e implementar pipelines de ETL (Extração, Transformação e Carga) para integrar os dados a um sistema centralizado. Valide e limpe os dados extraídos, pois erros são comuns."
+7,7,522,"Tenho um conjunto de 4 pontos (coordenadas x e y), que formula do excel poderia usar para encontrar o 3º ponto desse conjunto, dado que tenho a inclinação da reta que interpola esses 4 pontos, os 2 primeiros e o último é igual ao terceiro?",1.0,Pergunta tecnica e objetiva,Use a equação da reta: y - y1 = m(x - x1) e isole o ponto desconhecido com base na inclinação.,0_faculdade_fazer_emprego_trabalho,grau 1,formula especifica,nao e possivel responder dentro do contexto especificado,grau 3,pergunta nao relacionada ao tema e muito especifica,Use a equação da reta: y - y1 = m(x - x1) e isole o ponto desconhecido com base na inclinação.,"
+
+Considerando que os pontos são (x1, y1), (x2, y2), (x3, y3) e (x4, y4), a inclinação (m) é constante entre os pontos, e você conhece x1, x2, x4, y1, y2, y4, a fórmula para calcular y3 seria:
+
+`y3 = y2 + m * (x3 - x2)`
+
+Onde `m = (y4 - y1) / (x4 - x1)` e `x3 = x2 + (x4 - x2) / 2`.
+
+No Excel, você pode usar a seguinte fórmula:
+
+`=Y2 + ((Y4-Y1)/(X4-X1))*(X2+((X4-X2)/2)-X2)`
+"
+8,8,379,Growth marketing Hacker para jóias e moda feminina dados para os próximos anos,1.0,Objetiva,"Foque em marketing digital, TikTok, Instagram e personalização de conteúdo.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao e possivel responder objetivamente sem mais contexto,grau 3,pergunta vaga e opinativa,"Foque em marketing digital, TikTok, Instagram e personalização de conteúdo.","
+As principais tendências de growth hacking para joias e moda feminina nos próximos anos incluem:
+
+*   **Personalização:** Uso de dados para oferecer recomendações e experiências customizadas.
+*   **Conteúdo gerado pelo usuário (UGC):** Incentivar clientes a criarem conteúdo com os produtos para aumentar a prova social.
+*   **Marketing de influência:** Colaborações com micro e nano influenciadores.
+*   **Realidade Aumentada (RA):** Permitir que clientes experimentem virtualmente joias e roupas.
+*   **Live Shopping:** Vendas ao vivo em plataformas de mídia social.
+*   **SEO para pesquisa visual:** Otimização de imagens para mecanismos de busca visuais como Pinterest e Google Lens.
+*   **Programas de fidelidade gamificados:** Recompensas e desafios para aumentar o engajamento e retenção.
+*   **Foco em sustentabilidade e valores:** Destacar práticas éticas e sustentáveis para atrair consumidores conscientes.
+*   **Inteligência Artificial (IA):** Utilização de chatbots e ferramentas de IA para atendimento ao cliente e análise de dados.
+*   **Comércio Social:** Integração direta de vendas em plataformas de mídia social."
+9,9,80,Como lidar com o aumento constante do escopo do projeto?,3.0,Muito aberta,Use gestão ágil e priorização; renegocie prazos para conter o escopo.,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao se aplica,grau 3,pergunta nao relacionada ao tema e subjetiva,Use gestão ágil e priorização; renegocie prazos para conter o escopo.,"
+
+Implemente um processo formal de gerenciamento de mudanças, que inclua avaliação de impacto, aprovação e documentação de cada alteração no escopo. Priorize requisitos, negocie prazos e recursos, e comunique claramente as consequências de cada mudança para as partes interessadas."
+10,10,737,Como escolher e aguentar a faculdade visando apenas mercado de trabalho e concurso?,3.0,Muito aberta,Escolha o curso que dê base sólida e garanta estabilidade ou empregabilidade conforme seu objetivo.,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende dos interesses e objetivos pessoais,grau 3,pergunta opinativa e aberta,Escolha o curso que dê base sólida e garanta estabilidade ou empregabilidade conforme seu objetivo.,"
+Priorize cursos com alta empregabilidade e reconhecimento no mercado, como Engenharia, Direito, Medicina, Ciência da Computação e áreas financeiras. Durante a graduação, busque estágios direcionados aos seus objetivos, participe de atividades extracurriculares relevantes e construa um bom networking. Para ""aguentar"", defina metas claras, organize seu tempo, cuide da saúde física e mental e mantenha o foco nos seus objetivos de longo prazo."
+11,11,274,Como começar a estudar sistemas embarcados,1.0,,"Comece estudando microcontroladores, eletrônica digital e programação em C.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,existem varias formas de comecar dependendo dos interesses e recursos disponiveis,grau 3,pergunta aberta e opinativa,"Comece estudando microcontroladores, eletrônica digital e programação em C.","
+
+Comece com eletrônica básica, programação em C/C++ e arquitetura de microcontroladores. Explore plataformas como Arduino e Raspberry Pi para projetos práticos. Estude sistemas operacionais de tempo real (RTOS) e protocolos de comunicação como UART, SPI e I2C."
+12,12,636,Estou estudando matemática para o Enem. Me faça uma lista dos principais assuntos que devo estudar em ordem de prioridade,1.0,,"Priorize: aritmética, álgebra, funções, geometria, estatística e probabilidade.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,a prioridade depende dos seus pontos fortes e fracos,grau 3,pergunta opinativa e aberta,"Priorize: aritmética, álgebra, funções, geometria, estatística e probabilidade.","
+1. Funções (1º grau, 2º grau, exponencial, logarítmica, trigonométrica)
+2. Geometria Plana e Espacial
+3. Análise Combinatória e Probabilidade
+4. Matrizes, Determinantes e Sistemas Lineares
+5. Números Complexos e Polinômios
+6. Estatística (medidas de tendência central e dispersão)
+7. Progressões (Aritmética e Geométrica)
+8. Trigonometria (círculo trigonométrico, lei dos senos e cossenos)
+9. Porcentagem, Juros e Descontos
+10. Grandezas e Medidas."
+13,13,798,"se tivermos que resumir um único valor para uma distribuição de MonteCarlo, qual seria o melhor? A média ou o ""mais provável""?",1.0,,Depende do contexto: use a média para centralidade e o valor mais provável se quiser o pico da distribuição.,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta objetiva,,,,Depende do contexto: use a média para centralidade e o valor mais provável se quiser o pico da distribuição.,"
+A média é geralmente a melhor opção para resumir uma distribuição de Monte Carlo, pois representa o valor esperado central da distribuição e incorpora todas as amostras geradas. O valor ""mais provável"" (moda) pode ser enganoso se a distribuição for assimétrica ou multimodal."
+14,14,167,COMO UTILIZAR A FUNÇÃO SUBSTITUIR EM EXCEL,1.0,,Use SUBSTITUIR(texto; texto_antigo; texto_novo) no Excel.,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta tecnica,nao aplicavel,grau 3,pergunta nao relacionada ao tema e nao causal,Use SUBSTITUIR(texto; texto_antigo; texto_novo) no Excel.,"
+A função `SUBSTITUIR` no Excel permite substituir um texto específico por outro dentro de uma célula ou string de texto. Sua sintaxe é: `=SUBSTITUIR(texto, texto_antigo, texto_novo, [ocorrencia])`.
+
+*   **texto:** O texto onde a substituição será feita.
+*   **texto_antigo:** O texto que você deseja substituir.
+*   **texto_novo:** O texto que substituirá o texto antigo.
+*   **[ocorrencia]:** (Opcional) Especifica qual ocorrência do texto antigo deve ser substituída. Se omitido, todas as ocorrências são substituídas.
+
+Exemplo: `=SUBSTITUIR(""banana"", ""ana"", ""ela"")` retorna ""belana"".  `=SUBSTITUIR(""banana"", ""ana"", ""ela"", 1)` também retorna ""belana"", pois substitui apenas a primeira ocorrência.
+"
+15,15,0,"Eu trabalho em uma empresa chamada nerraW. Preciso fazer um review no glassdoor e gostaria de ajuda na elaboração do mesmo. Nesta empresa a cultura é boa, tecnologia muito ruim e sinto o discurso da liderança diferente do que é praticado no dia a dia. ",2.0,"Pergunta em si não tem contexto, mas foi adicionado um pouco podendo adicionar mais","Destaque cultura positiva, mas cite que a tecnologia é fraca e há desconexão entre discurso e prática.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao e possivel responder objetivamente pois a pergunta nao se enquadra no tema especificado e e opinativa,grau 3,"pergunta opinativa e nao relacionada a causalidade entre faculdade, emprego e trabalho","Destaque cultura positiva, mas cite que a tecnologia é fraca e há desconexão entre discurso e prática.","
+Aqui estão algumas sugestões para seu review no Glassdoor:
+
+**Pontos Positivos:**
+
+*   ""A cultura da empresa é um ponto forte, com um ambiente de trabalho colaborativo e bom relacionamento entre colegas.""
+*   ""As pessoas são acolhedoras e há um bom clima organizacional.""
+
+**Pontos Negativos:**
+
+*   ""A infraestrutura tecnológica é defasada e impacta a produtividade e a qualidade do trabalho.""
+*   ""Existe uma desconexão entre o discurso da liderança e as práticas diárias, gerando frustração e desmotivação.""
+*   ""A falta de investimento em tecnologia limita o desenvolvimento de novas soluções e a inovação.""
+
+**Sugestão de frase final:**
+
+*   ""A nerraW tem potencial para ser uma ótima empresa, mas precisa modernizar sua tecnologia e alinhar as ações da liderança com os valores propagados.""
+
+**Dica:** Seja específico e forneça exemplos (sem expor informações confidenciais) para dar mais credibilidade ao seu review."
+16,16,583,"Redação sobre Trabalhos de casa. Para que servem, e quais são as vantagens e desvantagens ",2.0,Precisa de contexto,Servem para aprendizado autônomo; vantagens: flexibilidade. Desvantagens: distrações e falta de socialização.,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,a resposta depende de diversos fatores pessoais e contextuais,grau 3,pergunta opinativa e aberta,Servem para aprendizado autônomo; vantagens: flexibilidade. Desvantagens: distrações e falta de socialização.,"
+
+Os trabalhos de casa servem para reforçar o aprendizado, desenvolver autonomia e responsabilidade, além de preparar para desafios futuros.
+
+**Vantagens:** fixação do conteúdo, desenvolvimento de hábitos de estudo, organização do tempo, aprofundamento individual e envolvimento familiar.
+
+**Desvantagens:** podem gerar estresse, sobrecarga, desigualdade (falta de recursos ou apoio em casa) e, se excessivos, diminuir o tempo para outras atividades importantes."
+17,17,204,2 / 2Como monitorar uma plantação de longo alcance?,2.0,Precisa de contexto,"Use drones, sensores IoT e imagens de satélite com análise via software agrícola.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao e possivel responder objetivamente sobre monitoramento de plantacao neste contexto,grau 3,pergunta nao relacionada ao tema e aberta,"Use drones, sensores IoT e imagens de satélite com análise via software agrícola.","
+Utilize drones com câmeras multiespectrais, imagens de satélite, sensores no solo (umidade, temperatura, nutrientes) e plataformas de monitoramento agrícola baseadas em nuvem para análise de dados e alertas."
+18,18,621,como validar com sql se os dados da tabela A estão em B,1.0,,SELECT * FROM A WHERE coluna NOT IN (SELECT coluna FROM B) para validar.,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta objetiva,nao se aplica,grau 3,pergunta nao relacionada ao tema,SELECT * FROM A WHERE coluna NOT IN (SELECT coluna FROM B) para validar.,"
+```sql
+SELECT COUNT(*) 
+FROM A
+WHERE NOT EXISTS (SELECT 1 FROM B WHERE A.id = B.id);
+```
+"
+19,19,409,"2 / 2Como posso construir confiança e credibilidade com potenciais clientes nas redes sociais, antes de fazer uma oferta de alto valor?",2.0,muito aberta podendo ter muitas maneiras de responder sem objetividade,"Gere valor com conteúdo gratuito, prova social e interações genuínas antes de vender.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"existem varias estrategias como compartilhar conteudo de valor, engajar com a comunidade e demonstrar experiencia",grau 3,pergunta opinativa e aberta,"Gere valor com conteúdo gratuito, prova social e interações genuínas antes de vender.","artigo:
+
+1.  **Compartilhe conteúdo de valor:** Publique regularmente informações relevantes, úteis e que resolvam os problemas do seu público-alvo.
+2.  **Seja transparente e autêntico:** Mostre os bastidores do seu negócio, compartilhe seus valores e seja honesto em suas comunicações.
+3.  **Engaje com a audiência:** Responda a comentários e mensagens, participe de discussões e mostre que você se importa com seus seguidores.
+4.  **Construa prova social:** Compartilhe depoimentos de clientes satisfeitos, estudos de caso e resultados que você já alcançou.
+5.  **Demonstre expertise:** Posicione-se como um especialista em seu nicho, oferecendo insights e soluções inovadoras.
+6.  **Ofereça conteúdo gratuito de qualidade:** Crie e-books, webinars, guias ou outros materiais gratuitos que demonstrem seu conhecimento e ajudem seu público.
+7.  **Seja consistente:** Mantenha uma frequência regular de postagens e interações para manter sua audiência engajada e construir um relacionamento de longo prazo."
+20,20,766,Como fazer pra orientar/co-orientar monografias?,1.0,,"Auxilie alunos, revise textos e ajude na metodologia com feedback constante.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende das habilidades do orientador e das necessidades do aluno,grau 3,pergunta opinativa e aberta,"Auxilie alunos, revise textos e ajude na metodologia com feedback constante.","apenas orientar/co-orientar monografias?
+
+1.  **Disponibilidade:** Avalie sua agenda e capacidade para dedicar tempo adequado ao aluno.
+2.  **Alinhamento:** Verifique se o tema proposto se encaixa em sua área de expertise.
+3.  **Reuniões:** Estabeleça frequência e formato das reuniões de acompanhamento.
+4.  **Feedback:** Ofereça críticas construtivas e direcionamentos claros em cada etapa.
+5.  **Normas:** Garanta que o trabalho siga as normas da instituição.
+6.  **Incentivo:** Motive o aluno a desenvolver o projeto com autonomia e responsabilidade.
+7.  **Co-orientação:** Divida tarefas e responsabilidades com o co-orientador, mantendo a comunicação alinhada."
+21,21,681,Como cobrar pela análise estatística?,2.0,Precisa de contexto,Baseie o preço no tempo gasto e complexidade; cobre por hora ou projeto.,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende do contexto e dos valores de mercado,grau 3,pergunta vaga e opinativa,Baseie o preço no tempo gasto e complexidade; cobre por hora ou projeto.,"$
+A cobrança pela análise estatística pode ser feita por hora, por projeto ou por um valor fixo mensal, dependendo da complexidade, do tempo estimado e do valor percebido. Considere seus custos, a experiência, o mercado e o público-alvo ao definir o preço."
+22,22,87,Quando é a hora de pedir aumento?,2.0,Precisa de contexto,Quando seu desempenho estiver acima da média e o mercado valorizar seu cargo.,0_faculdade_fazer_emprego_trabalho,grau 2,depende de contexto,"depende de fatores como desempenho, mercado e relacao com o empregador",grau 3,pergunta depende de contexto pessoal e situacional,Quando seu desempenho estiver acima da média e o mercado valorizar seu cargo.,"
+Quando você demonstra resultados consistentes acima das expectativas, assume novas responsabilidades e entrega valor para a empresa. Pesquise a média salarial do mercado para sua função e experiência, e prepare argumentos sólidos baseados em suas conquistas."
+23,23,247,Dev só arranja emprego se tiver contatos?,1.0,,"Contatos ajudam, mas projetos no GitHub e portfólio também atraem vagas.",0_faculdade_fazer_emprego_trabalho,grau 1,pergunta objetiva,"nao necessariamente, mas contatos podem ajudar",grau 2,depende de contexto e variaveis,"Contatos ajudam, mas projetos no GitHub e portfólio também atraem vagas.","
+
+Não necessariamente. Embora contatos possam ajudar, a competência técnica, um bom portfólio e habilidades de comunicação são cruciais para conseguir emprego como desenvolvedor. Muitas empresas contratam por mérito, independentemente de conexões pré-existentes."
+24,24,555,Como conseguir clientes para meus trabalhos?,2.0,Precisa de contexto,"Use redes sociais, indicação e mostre resultados anteriores.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,existem varias estrategias como marketing digital e networking,grau 3,pergunta opinativa e aberta,"Use redes sociais, indicação e mostre resultados anteriores.","
+Divulgue seus serviços online (redes sociais, portfólio digital, plataformas freelancer), faça networking, peça indicações a clientes satisfeitos, ofereça um bom atendimento e considere parcerias com outros profissionais."
+25,25,793,Qual o cargo entre o Gerente de Tecnologia e o Analista Senior de Tecnologia? Considere uma empresa multinacional farmacêutica e não uma empresa cujo core seja tecnologia para pensar na organização da área de Tech,3.0,Empresas tem estruturar diferentes,"O cargo de Gerente é acima do Analista Sênior, com foco em gestão e estratégia.",0_faculdade_fazer_emprego_trabalho,grau 1,estrutura organizacional,"o cargo pode variar, mas geralmente e entre eles esta o coordenador de tecnologia ou o especialista senior",grau 2,depende do contexto da empresa,"O cargo de Gerente é acima do Analista Sênior, com foco em gestão e estratégia.","
+Em uma multinacional farmacêutica, o cargo de Gerente de Tecnologia é superior ao de Analista Sênior de Tecnologia. O gerente é responsável por liderar equipes e definir a estratégia de tecnologia, enquanto o analista sênior foca na execução técnica e análise de sistemas."
+26,26,781,Como construir um portfolio pra ser aceito no mestrado?,3.0,Muito aberta,"Mostre projetos, artigos e carta de motivação alinhada à linha de pesquisa.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"inclua trabalhos relevantes, projetos e experiencias que demonstrem habilidades e conhecimento na area do mestrado",grau 2,depende do contexto do mestrado,"Mostre projetos, artigos e carta de motivação alinhada à linha de pesquisa.","Concise e relevante, com exemplos de conteúdo a serem incluídos:
+
+1.  **Seleção de Trabalhos:** Escolha projetos que demonstrem suas habilidades de pesquisa, análise e escrita acadêmica. Priorize aqueles alinhados à área do mestrado.
+2.  **Conteúdo:** Inclua monografias de graduação, artigos científicos (publicados ou não), relatórios de pesquisa, projetos de extensão, resumos de eventos e, se relevante, trabalhos artísticos ou de design.
+3.  **Organização:** Organize o portfólio de forma lógica, com uma introdução que destaque seus objetivos e habilidades. Utilize um índice para facilitar a navegação.
+4.  **Formato:** Formatos comuns são PDF ou plataformas online (ex: Google Drive, Behance, websites pessoais). Garanta que os documentos estejam legíveis e bem formatados.
+5.  **Carta de Apresentação:** Inclua uma carta destacando a relevância dos trabalhos para o programa de mestrado e suas expectativas.
+6.  **Revisão:** Revise cuidadosamente a gramática e a ortografia de todos os documentos. Peça a outras pessoas para revisarem também."
+27,27,188,2 / 2me ajude a planejar um projeto com arduino para coleta de dados em uma solução em nuvem afim de fazer analise de dados,2.0,Precisa de contexto,"Use Arduino com sensores, envie dados via Wi-Fi para um banco em nuvem (ex: Firebase).",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao e possivel responder objetivamente sem mais detalhes,grau 3,pergunta vaga e opinativa,"Use Arduino com sensores, envie dados via Wi-Fi para um banco em nuvem (ex: Firebase).","
+1.  **Defina os dados a serem coletados:** Escolha os sensores (temperatura, umidade, luminosidade, etc.) e determine a frequência de coleta.
+2.  **Escolha da plataforma IoT:** Decida qual plataforma de nuvem utilizar (AWS IoT, Azure IoT Hub, Google Cloud IoT, ThingSpeak, etc.).
+3.  **Conectividade:** Selecione o método de conexão do Arduino à internet (Wi-Fi, Ethernet, GPRS/3G).
+4.  **Programação do Arduino:** Desenvolva o código para ler os sensores, formatar os dados e enviá-los para a plataforma IoT.
+5.  **Configuração da nuvem:** Configure a plataforma IoT para receber, armazenar e processar os dados enviados pelo Arduino.
+6.  **Análise de dados:** Utilize as ferramentas da plataforma de nuvem ou outras ferramentas de análise de dados (Python, R, etc.) para analisar os dados coletados.
+7.  **Visualização:** Crie painéis ou relatórios para visualizar os dados e os resultados da análise."
+28,28,352,"PJ, CLT e concurso público: como ponderar os prós e os contras?",3.0,Como ponderar?,CLT dá estabilidade; PJ tem flexibilidade; concurso tem segurança e benefícios.,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,a escolha depende de preferencias pessoais e objetivos de carreira,grau 3,pergunta opinativa e aberta,CLT dá estabilidade; PJ tem flexibilidade; concurso tem segurança e benefícios.,"
+**PJ (Pessoa Jurídica):**
+
+*   **Prós:** Maior autonomia, potencial de ganhos ilimitados, flexibilidade de horários, benefícios fiscais.
+*   **Contras:** Instabilidade financeira, responsabilidade total pelo negócio, necessidade de gestão, ausência de benefícios trabalhistas (férias, 13º, FGTS).
+
+**CLT (Consolidação das Leis do Trabalho):**
+
+*   **Prós:** Estabilidade, benefícios trabalhistas, jornada definida, menor responsabilidade.
+*   **Contras:** Menor autonomia, teto salarial, menor flexibilidade, burocracia.
+
+**Concurso Público:**
+
+*   **Prós:** Estabilidade extrema, bons salários e benefícios, progressão na carreira, prestígio.
+*   **Contras:** Concorrência alta, processo seletivo demorado, menor flexibilidade, ambiente de trabalho por vezes burocrático.
+
+**Ponderação:** Avalie seus objetivos de vida, tolerância ao risco, necessidade de estabilidade e preferências por autonomia e flexibilidade. Se prioriza segurança e benefícios, CLT ou concurso são mais indicados. Se busca liberdade e potencial de ganhos, PJ pode ser melhor, mas exige disciplina e planejamento."
+29,29,782,Como posso iniciar trabalhando com suporte tecnico?,2.0,Precisa de contexto,"Comece estudando hardware, redes e atendimento remoto; busque certificações.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"pesquise requisitos da area, faça cursos e busque oportunidades de entrada",grau 2,precisa de contexto pessoal,"Comece estudando hardware, redes e atendimento remoto; busque certificações.","
+
+Comece com cursos online gratuitos ou pagos sobre sistemas operacionais, redes e hardware. Busque certificações básicas como CompTIA A+ ou Microsoft Technology Associate (MTA). Candidate-se a vagas de estágio ou nível júnior em empresas de tecnologia ou suporte, e considere trabalhos freelancers para ganhar experiência prática."
+30,30,607,"Por que os discos rígidos da IBM em 1956 eram muito pesados e hoje temos cartões de memória com capacidade muito superior, mesmo sendo fisicamente pequenos?",1.0,,A evolução tecnológica reduziu tamanho e aumentou densidade de armazenamento.,0_faculdade_fazer_emprego_trabalho,grau 1,evolucao tecnologica,"a pergunta nao se relaciona ao tema de faculdade, emprego ou trabalho",grau 3,pergunta nao relacionada ao tema,A evolução tecnológica reduziu tamanho e aumentou densidade de armazenamento.,"
+
+Comece com cursos online gratuitos ou pagos sobre sistemas operacionais, redes e hardware. Busque certificações básicas como CompTIA A+ ou Microsoft Technology Associate (MTA). Candidate-se a vagas de estágio ou nível júnior em empresas de tecnologia ou suporte, e considere trabalhos freelancers para ganhar experiência prática."
+31,31,105,Quais estratégias usam para compreender código legado?,2.0,Precisa de contexto,"Leia o código, adicione logs e testes; converse com quem o mantém.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao e possivel responder objetivamente sem contexto especifico,grau 3,pergunta vaga e nao especifica sobre faculdade ou emprego,"Leia o código, adicione logs e testes; converse com quem o mantém.","
+As estratégias para compreender código legado incluem:
+
+*   **Testes unitários:** Criar testes para entender o comportamento existente.
+*   **Refatoração:** Melhorar a estrutura do código sem alterar o comportamento.
+*   **Depuração:** Executar o código para observar seu fluxo e valores.
+*   **Documentação:** Adicionar comentários e documentação para explicar o código.
+*   **Análise estática:** Usar ferramentas para identificar padrões e possíveis problemas.
+*   **Pair programming:** Revisar o código com outro desenvolvedor.
+*   **Revisão de código:** Analisar o histórico de alterações e commits.
+*   **Entender o domínio:** Compreender o problema de negócio que o código resolve."
+32,32,229,Aja como um especialista em marketing digital. Dê ideias de vídeos curtos sobre contabilidade.,2.0,Precisa de contexto,"Fale de temas como impostos, dicas financeiras e curiosidades de contabilidade.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao e possivel responder objetivamente,grau 3,pergunta opinativa e aberta,"Fale de temas como impostos, dicas financeiras e curiosidades de contabilidade.","
+
+1.  **""3 erros financeiros que você precisa evitar""**: Dicas rápidas sobre gastos desnecessários, falta de planejamento ou não acompanhar o fluxo de caixa.
+2.  **""Imposto de Renda: o que é dedutível?""**: Explique de forma simples quais despesas podem ser deduzidas no IR.
+3.  **""MEI: como emitir nota fiscal?""**: Tutorial prático e rápido sobre a emissão de notas fiscais para Microempreendedores Individuais.
+4.  **""Diferença entre lucro bruto e lucro líquido""**: Explicação concisa dos dois conceitos, com exemplos.
+5.  **""5 dicas para organizar suas finanças pessoais""**: Sugestões práticas para controle de gastos, criação de orçamento e investimentos.
+6.  **""Contabilidade na nuvem: o que é e como funciona?""**: Apresente os benefícios do uso de softwares de contabilidade online.
+7.  **""O que é o pró-labore?""**: Explique o que é, para que serve e como definir o valor do pró-labore.
+8.  **""Contabilidade para iniciantes: termos básicos""**: Glossário rápido com os principais termos contábeis.
+9.  **""Como a contabilidade pode ajudar seu negócio a crescer?""**: Demonstre como a contabilidade estratégica pode impulsionar o crescimento empresarial.
+10. **""Mitos sobre contabilidade que você precisa esquecer""**: Desmistifique crenças populares sobre a área contábil."
+33,33,759,Quero trabalhar em banco oq eu faço?,2.0,Precisa de contexto,"Estude economia, matemática financeira e faça estágios em instituições financeiras.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende dos interesses e objetivos pessoais,grau 3,pergunta opinativa e aberta,"Estude economia, matemática financeira e faça estágios em instituições financeiras.","
+
+Para trabalhar em um banco, você pode seguir estes passos:
+
+1.  **Educação:** Obtenha um diploma de nível superior em áreas como Administração, Economia, Contabilidade, Finanças ou áreas correlatas.
+2.  **Concursos Públicos:** Muitos bancos oferecem empregos através de concursos públicos. Prepare-se estudando as matérias exigidas nos editais.
+3.  **Programas de Trainee e Estágio:** Inscreva-se em programas de trainee e estágio oferecidos pelos bancos para ganhar experiência.
+4.  **Cargos de Entrada:** Procure por vagas de nível inicial, como escrituário, atendente ou operador de caixa.
+5.  **Desenvolva Habilidades:** Invista em habilidades como comunicação, atendimento ao cliente, raciocínio lógico e conhecimento em informática.
+6.  **Certificações:** Considere obter certificações financeiras para se destacar.
+7.  **Networking:** Faça networking com profissionais da área bancária."
+34,34,61,Como atuar em Saúde Pública ?,2.0,Precisa de contexto,"Forme-se em saúde, estude políticas públicas e busque vagas em órgãos do SUS.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende da area especifica e das habilidades individuais,grau 3,pergunta vaga e aberta,"Forme-se em saúde, estude políticas públicas e busque vagas em órgãos do SUS.","Com a graduação em Medicina, Enfermagem, Odontologia, Farmácia, Psicologia, Serviço Social, Nutrição, Fisioterapia, Educação Física, entre outras áreas da saúde. É possível atuar como médico sanitarista, enfermeiro da família, agente comunitário de saúde, epidemiologista, vigilante sanitário, gestor de saúde, pesquisador, entre outros profissionais. A atuação pode ocorrer em postos de saúde, hospitais públicos, secretarias de saúde, órgãos de vigilância sanitária e epidemiológica, e em programas e projetos específicos de saúde pública."
+35,35,254,Quais ações educativas seriam adequadas para centros municipais de educação infantil  ?,2.0,Precisa de contexto,"Proponha atividades lúdicas, inclusão e formação cidadã.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende das necessidades especificas de cada centro e contexto local,grau 3,pergunta opinativa e aberta,"Proponha atividades lúdicas, inclusão e formação cidadã.","
+Ações educativas adequadas para centros municipais de educação infantil incluem:
+
+*   **Oficinas de leitura e contação de histórias:** Estimulam o gosto pela leitura e o desenvolvimento da linguagem.
+*   **Atividades lúdicas com jogos e brincadeiras:** Promovem o desenvolvimento cognitivo, social e emocional.
+*   **Projetos pedagógicos temáticos:** Permitem explorar diferentes áreas do conhecimento de forma integrada.
+*   **Iniciação artística com música, dança, teatro e artes visuais:** Estimula a criatividade e a expressão.
+*   **Atividades ao ar livre e contato com a natureza:** Promovem a saúde, o bem-estar e a consciência ambiental.
+*   **Rodas de conversa sobre temas relevantes:** Desenvolvem a comunicação, o respeito e a cidadania.
+*   **Oficinas de culinária:** Estimulam hábitos alimentares saudáveis e noções de matemática.
+*   **Ações de integração com a família e a comunidade:** Fortalecem o vínculo entre a escola e o entorno."
+36,36,478,Pessoas que NAO trabalham em empregos home office pretende mudar de área só para conseguir trabalhar home?,3.0,Opinião,"Sim, muitas pessoas mudam de área buscando flexibilidade e equilíbrio com o home office.",0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,a resposta varia de pessoa para pessoa e depende de diversos fatores pessoais e profissionais,grau 3,pergunta opinativa e aberta,"Sim, muitas pessoas mudam de área buscando flexibilidade e equilíbrio com o home office.","apenas para conseguir trabalhar em regime de trabalho remoto?
+
+Sim, é comum que pessoas insatisfeitas com o modelo de trabalho presencial busquem transições de carreira para áreas que ofereçam a possibilidade de *home office*. A flexibilidade e a melhor conciliação entre vida pessoal e profissional são os principais motivadores para essa mudança."
+37,74,598,voce consegui me apresentar um projeto de otimizaçao de processo em um estoque de peças de carro ?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao e possivel responder objetivamente sem mais detalhes sobre o estoque e os processos,grau 3,pergunta vaga e opinativa,"Projeto para organização e controle para estoque de peças automotivas: 1. Estruture os processos internos; 2. Acerte na gestão de armazém: A armazenagem correta dos produtos da sua empresa de autopeças é fundamental para manter a sua qualidade. Por isso, deve-se categorizar todos os materiais de acordo com suas principais características e encontrar as melhores formas de alocá-los. 3. Contrate mão de obra qualificada. 4. Trabalhe com a previsibilidade dos produtos. 5. Adote um controle rigoroso de entradas e saídas. 6. Modernize os processos com o uso da tecnologia.","
+
+Um projeto de otimização de estoque de peças de carro pode incluir:
+
+1.  **Análise ABC:** Classificar as peças por importância (faturamento) para focar no controle das mais relevantes.
+2.  **Previsão de Demanda:** Utilizar dados históricos e sazonalidade para prever a necessidade de cada peça.
+3.  **Definição de Estoque Mínimo e Máximo:** Calcular níveis ideais para evitar falta ou excesso de peças.
+4.  **Implementação de um Sistema de Gestão de Estoque (WMS):** Automatizar processos, rastrear movimentações e gerar relatórios.
+5.  **Layout do Armazém:** Organizar o espaço para facilitar a localização e o picking das peças.
+6.  **Auditoria Periódica:** Verificar a acuracidade do inventário e identificar gargalos.
+7.  **Treinamento da Equipe:** Capacitar os funcionários para utilizar o novo sistema e seguir os procedimentos otimizados.
+8.  **Indicadores de Desempenho (KPIs):** Acompanhar métricas como giro de estoque, nível de serviço e custo de armazenagem."
+38,75,377,Posso reutilizar texto do pré-projeto no próprio TCC?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta objetiva,"nao, deve evitar reutilizar texto para manter originalidade e evitar plagiario",grau 1,pergunta tem resposta clara e verificavel,"Sim, você pode reutilizar o texto do pré-projeto no próprio TCC.","
+
+Sim, é possível reutilizar textos do pré-projeto no TCC, desde que devidamente adaptados e integrados ao contexto do trabalho final, com as devidas citações, se necessário."
+39,76,605,Em quais casos preciso devolver a bolsa PIBIC?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,regras claras,"em casos de desistencia do programa, violacao de regras ou falta de cumprimento de requisitos",grau 2,depende de circunstancias especificas,"Você deve devolver ao CNPq a bolsa PIBIC, em valores atualizados, quando não cumprir os requisitos e compromissos a seguir: 1 - Estar regularmente matriculado em curso de graduação.
+2 - Ter vínculo empregatício e não se dedicar integralmente às atividades acadêmicas e de pesquisa.
+3 - Não for selecionado e indicado pelo orientador. 
+4 - Não apresentar no seminário anual sua produção científica, sob a forma de pôsteres, resumos e/ou painéis.
+5 - Nas publicações e trabalhos apresentados, não fizer referência a sua condição de bolsista do CNPq.
+6 - Estar recebendo outra modalidade de bolsa, sendo vedada a acumulação desta com bolsas de outros Programas do CNPq ou bolsas de outras instituições.",":A devolução da bolsa PIBIC é exigida em casos de desligamento do aluno do projeto, abandono da pesquisa, conclusão da graduação, transferência para outra instituição ou descumprimento das obrigações estabelecidas no termo de concessão."
+40,77,473,Como iniciar na área de análise de dados ?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"estudar estatistica, programacao e ferramentas de analise. buscar experiencias praticas e networking",grau 2,precisa de contexto pessoal,"Para iniciar na área de análise de dados é ideal que você saiba ou esteja disposto a aprender a programar, seja curioso e tenha atenção a detalhes. Não é imprescindível, mas ajuda ter conhecimentos em estatística, matemática e física.","Devido à alta demanda, a área de análise de dados oferece diversas portas de entrada. Comece aprendendo ferramentas como Excel, SQL e uma linguagem de programação (Python ou R). Em seguida, familiarize-se com ferramentas de visualização de dados (Power BI, Tableau) e conceitos de estatística. Cursos online, bootcamps e graduações em áreas correlatas são ótimos pontos de partida. Construa um portfólio com projetos práticos para demonstrar suas habilidades."
+41,78,787,Oi eu gostaria de saber como posso melhorar meu foco em realizar tarefas de trabalho,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"existem varias tecnicas como definir metas claras, eliminar distrações e manter uma rotina",grau 3,pergunta opinativa e aberta,"Existem várias técnicas de manter o foco nas tarefas, inclusive o método pomodoro, em que você alterna períodos de foco e pausa. Independente de técnicas, ajuda silenciar as notificações do telefone celular e outras distrações, quando possível.","
+Experimente técnicas como a Pomodoro (25 minutos de foco, 5 de descanso), bloqueie distrações (notificações, redes sociais), defina prioridades claras, organize seu espaço de trabalho e pratique mindfulness para reduzir o estresse."
+42,79,662,O que significa educar e quais as estratégias para atrair os pais a escola,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,a pergunta mistura conceitos de educacao e atracao de pais para escola sem foco claro,grau 3,pergunta abrange dois temas distintos e nao tem foco especifico,"Educar significa transmitir conhecimento técnico e relativo a comportamentos. Uma maneira de aproximar os pais da escola é criar Conselhos de Pais, onde serão discutidos assuntos pertinentes à escola e planejados os eventos. Os próprios eventos já aproximam os pais das escolas.","
+Educar é o processo de desenvolver as capacidades físicas, intelectuais e morais de um indivíduo, preparando-o para a vida em sociedade.
+
+Estratégias para atrair pais à escola:
+
+*   **Comunicação eficaz:** Utilize diversos canais (reuniões, bilhetes, e-mails, redes sociais) para manter os pais informados.
+*   **Eventos escolares:** Organize eventos que envolvam a participação dos pais, como festas, apresentações e palestras.
+*   **Oficinas e cursos:** Ofereça atividades que promovam o desenvolvimento dos pais e fortaleçam o vínculo com a escola.
+*   **Atendimento individualizado:** Disponibilize horários para conversas e reuniões individuais com os pais.
+*   **Ambiente acolhedor:** Crie um ambiente escolar receptivo e que valorize a participação da família.
+*   **Transparência:** Mantenha os pais informados sobre o desempenho e o desenvolvimento dos filhos.
+*   **Incentivo ao voluntariado:** Convide os pais para participar de atividades voluntárias na escola."
+43,80,328,como eu faço para trabalhar com a inteligência artificial?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"estude programacao, matematica e cursos especificos de ia. busque experiencias praticas e networking na area.",grau 2,precisa de contexto pessoal,"No momento atual há fácil acesso à ferramentas de inteligência artificial, o que facilita bastante o trabalho de quem quer se inserir no mercado de trabalho em inteligência artificial. Assim como todo ramo de mercado,  especializar-se na área e adquirir experiência acelera o processo.","
+Educar é o processo de desenvolver as capacidades físicas, intelectuais e morais de um indivíduo, preparando-o para a vida em sociedade.
+
+Estratégias para atrair pais à escola:
+
+*   **Comunicação eficaz:** Utilize diversos canais (reuniões, bilhetes, e-mails, redes sociais) para manter os pais informados.
+*   **Eventos escolares:** Organize eventos que envolvam a participação dos pais, como festas, apresentações e palestras.
+*   **Oficinas e cursos:** Ofereça atividades que promovam o desenvolvimento dos pais e fortaleçam o vínculo com a escola.
+*   **Atendimento individualizado:** Disponibilize horários para conversas e reuniões individuais com os pais.
+*   **Ambiente acolhedor:** Crie um ambiente escolar receptivo e que valorize a participação da família.
+*   **Transparência:** Mantenha os pais informados sobre o desempenho e o desenvolvimento dos filhos.
+*   **Incentivo ao voluntariado:** Convide os pais para participar de atividades voluntárias na escola."
+45,82,391,Como falar melhor em público sem perder as ideias,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,existem varias tecnicas como praticar e se preparar bem,grau 3,pergunta opinativa e aberta,"Para falar em público sem perder as ideias sempre ajuda ter domínio e a segurança sobre o que você vai falar. Além disso, é importante manter a calma, já que o nervosismo atrapalha o desenvolvimento das ideias.","
+Pratique com antecedência, organize suas ideias em tópicos e utilize notas concisas como guia, não como roteiro. Concentre-se em transmitir a mensagem principal e conecte-se com a audiência."
+46,83,734,O que poderia ocorrer a economia mundial se deixasse de existir bolsa de valores e ações de empresas?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,a resposta depende de muitos fatores e efeitos complexos,grau 3,pergunta vaga e complexa,"Se não mais existisse bolsa de valores e ações, aumentaria a instabilidade e a sanidade financeira das empresas","
+
+A economia mundial enfrentaria uma redução drástica na alocação de capital, dificultando o crescimento de empresas e projetos de longo prazo. A inovação e a criação de empregos seriam prejudicadas, e a transparência do mercado diminuiria. Haveria um aumento na concentração de riqueza e uma possível instabilidade financeira devido à falta de mecanismos de avaliação de risco e de um mercado secundário para investimentos."
+47,84,434,"Aplicação PDV para mercado com C# / .NET Qual o padrão do mercado para a UI, ainda é Windows Forms ? Você me indica outra opção ?",,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao ha uma resposta objetiva unica,grau 3,pergunta vaga e opinativa,"O padrão de mercado para UI em aplicações PDV em C#/.NET não é mais apenas o Windows Forms. Existem outras soluções tecnológicas, como .NET MAUI e UWP.","
+
+Atualmente, o padrão de mercado para a UI de sistemas PDV em C#/.NET está migrando de Windows Forms para tecnologias mais modernas como WPF (Windows Presentation Foundation) e, cada vez mais, para frameworks cross-platform como .NET MAUI ou Blazor, que permitem o desenvolvimento de aplicações para diversas plataformas (Windows, Linux, macOS, Web, Mobile) a partir de uma única base de código.
+
+WPF oferece maior flexibilidade e recursos visuais avançados em comparação com Windows Forms. .NET MAUI e Blazor são opções para quem busca portabilidade e desenvolvimento web, respectivamente."
+50,87,772,"Saindo da vida acadêmica e tentando o mercado, como começar?",,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,existem varias abordagens dependendo do individuo e do mercado,grau 3,pergunta opinativa e aberta,"O primeiro passo é atualizar o currículo. Caso você seja profissional liberal, o ideal é providenciar o marketing dos serviços que você irá oferecer. Caso a sua carreira envolva trabalhar  em empresas, você pode identificar processos de seleção para participar. ","
+Comece com autoconhecimento, identificando suas habilidades e interesses. Em seguida, pesquise o mercado de trabalho, as áreas em alta e as empresas que te atraem. Invista em networking, participe de eventos e converse com profissionais da área. Prepare um currículo e um perfil no LinkedIn focados nas suas qualificações e objetivos. Por fim, candidate-se a vagas, mesmo que não se encaixe perfeitamente, e esteja aberto a oportunidades de aprendizado e desenvolvimento."
+51,88,459,quero criar uma pesquisa onde as respostas serão sim ou não e plotar o resultado em um gráfico de pizza. Como posso fazer isso?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta objetiva,a pergunta nao se encaixa no tema especificado e requer detalhes tecnicos para resposta,grau 3,pergunta nao relacionada ao tema e excessivamente aberta,"Coletadas as respostas, há inúmeras formas de fazer isso. O gráfico pode ser plotado a partir de várias ferramentas, como Excel, libreoffice calc, além de programação em python com as bibliotecas de visualização disponíveis.","
+
+Você pode usar ferramentas como Google Forms para coletar os dados e Google Sheets ou Microsoft Excel para criar o gráfico de pizza. No Google Forms, defina as perguntas com respostas do tipo ""Sim"" ou ""Não"". Após coletar as respostas, exporte os dados para o Google Sheets ou Excel. Em seguida, utilize a função de gráficos das ferramentas para criar um gráfico de pizza com base nas contagens de ""Sim"" e ""Não""."
+56,93,740,O que posso fazer pra entrar no mestrado?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta clara e objetiva,,,,"Depende da profissão e da área específica de estudo, mas o primeiro passo seria identificar as universidades que oferecem mestrado e se informar sobre o processo seletivo.","
+Para entrar no mestrado, você deve:
+
+1.  **Escolher um programa:** Pesquise programas na sua área de interesse e verifique os requisitos de cada um.
+2.  **Cumprir os requisitos:** Geralmente, é exigido diploma de graduação, histórico escolar, proficiência em língua estrangeira e, em alguns casos, experiência profissional.
+3.  **Preparar a documentação:** Organize todos os documentos solicitados, como histórico, diploma, currículo, carta de intenção e cartas de recomendação.
+4.  **Fazer a inscrição:** Inscreva-se no processo seletivo dentro do prazo estabelecido pela instituição.
+5.  **Preparar-se para as etapas:** Estude para a prova escrita (se houver) e prepare-se para a entrevista."
+58,95,405,quais são os públicos alvos para vender plano odontológico,,,,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta objetiva,nao se aplica,grau 3,pergunta vaga e nao relacionada ao tema,"Cuidar dos dentes é importante por motivos de saúde e estética. Públicos-alvo potenciais para o consumo de planos odontológicos podem ser pessoas que trabalham nos setores de saúde bucária, moda e design, crianças e idosos.","
+Pessoas de todas as idades que buscam prevenir e tratar problemas bucais, empresas que oferecem benefícios aos funcionários, estudantes, servidores públicos e famílias."
+59,96,184,Como lidar com um fim de contrato?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende da situacao especifica e das preferencias pessoais,grau 3,pergunta opinativa e aberta,Depende. Qual o tipo de contrato? Qual a importância desse contrato para você? A importância é pessoal ou profissional? Emocional ou financeira? Não há como responder.,"
+1. **Revise o contrato:** Verifique os termos de rescisão, prazos e possíveis penalidades.
+2. **Comunique a decisão:** Notifique a outra parte com antecedência, conforme estipulado no contrato.
+3. **Formalize a rescisão:** Elabore um termo de rescisão detalhando os acordos finais.
+4. **Regularize pendências:** Quite todas as obrigações financeiras e devolva bens, se houver.
+5. **Obtenha comprovação:** Guarde cópias de todos os documentos relacionados à rescisão."
+63,100,751,Como otimizar buscas por chamadas em aberto para publicação em revista?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende das preferencias e objetivos do autor,grau 3,pergunta vaga e opinativa,"Há sites que indicam as chamadas em aberto para publicação em revistas, mas é preciso procurar algum site relativo ao tema de buscado.","
+1. **Revise o contrato:** Verifique os termos de rescisão, prazos e possíveis penalidades.
+2. **Comunique a decisão:** Notifique a outra parte com antecedência, conforme estipulado no contrato.
+3. **Formalize a rescisão:** Elabore um termo de rescisão detalhando os acordos finais.
+4. **Regularize pendências:** Quite todas as obrigações financeiras e devolva bens, se houver.
+5. **Obtenha comprovação:** Guarde cópias de todos os documentos relacionados à rescisão."
+68,105,180,"Estudante de engenharia elétrica que vai se formar desempregado, qual é a saída?",,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"a saída pode incluir buscar vagas de emprego, fazer cursos complementares, ou iniciar um projeto proprio",grau 2,depende de contexto especifico,"O primeiro passo é atualizar o currículo, com todas as experiências e projetos acadêmicos. Caso você queira se tornar um profissional liberal, o ideal é providenciar o marketing dos serviços que você irá oferecer. Caso você queira trabalhar  em empresas, você pode identificar processos de seleção para participar. ","
+Aprimore habilidades em áreas de alta demanda como energias renováveis, automação industrial, sistemas embarcados ou análise de dados. Considere estágios, projetos freelance, cursos de especialização e networking para aumentar suas chances no mercado de trabalho."
+69,106,468,Como virar dev autônomo?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende das habilidades e mercado,grau 3,pergunta vaga e opinativa,"O primeiro passo é atualizar o currículo, com todos os projetos desenvolvidos e as experiências. Em seguida, o ideal é providenciar o marketing dos serviços que você irá oferecer.","
+
+1.  **Defina sua especialidade:** Escolha uma área de desenvolvimento (front-end, back-end, mobile, etc.).
+2.  **Crie um portfólio:** Desenvolva projetos pessoais ou contribua em projetos open source para demonstrar suas habilidades.
+3.  **Formalize-se:** Considere abrir um MEI (Microempreendedor Individual) para emitir notas fiscais e ter acesso a benefícios.
+4.  **Divulgue seus serviços:** Utilize plataformas como LinkedIn, Upwork, Fiverr e redes sociais para encontrar clientes.
+5.  **Networking:** Participe de eventos e comunidades online para conhecer outros profissionais e potenciais clientes.
+6.  **Gerencie suas finanças:** Controle seus gastos, impostos e fluxo de caixa.
+7.  **Mantenha-se atualizado:** A área de tecnologia está em constante mudança, então invista em aprendizado contínuo."
+71,108,773,"Dá certo fazer IC, estudar noturno e trabalhar ao mesmo tempo?",,,,0_faculdade_fazer_emprego_trabalho,grau 2,depende de contexto,pode dar certo dependendo da carga horaria e organizacao pessoal,grau 2,depende do contexto individual,"Dá certo fazer iniciação científica, ter aulas à noite e trabalhar, mas é certamente um grande desafio que irá representar sacrifícios ao longo da jornada.","
+É possível, mas desafiador. Exige muita organização, disciplina e boa gestão do tempo para conciliar as demandas de cada atividade e garantir um bom desempenho em todas."
+74,111,402,1 / 2Como monitorar uma plantação de longo alcance?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao e possivel responder objetivamente,grau 3,pergunta nao relacionada ao tema e vaga,"Equipamentos, como drones e câmeras, e ferramentas tecnológicas, como o processamento de imagens, podem auxiliar o monitoramento de uma plantação de longo alcance.","
+Utilize drones com câmeras multiespectrais, imagens de satélite, sensores no solo e estações meteorológicas, integrando os dados em um sistema de gerenciamento agrícola para análise e tomada de decisões."
+75,112,754,Tem alguma ferramenta online que facilita encontrar empresas privadas locais com dados específicos?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta clara e objetiva,"sim, existem ferramentas como linkedin e indeed que podem ajudar a encontrar empresas com dados especificos",grau 1,pergunta clara e verificavel,"Sim, existem ferramentas online para facilitar a encontrar empresas privadas com dados específicos, a exemplo do LinkedIn.","
+Sim, algumas ferramentas podem ajudar:
+
+*   **Crunchbase:** Focado em empresas de tecnologia, mas com dados de muitas outras áreas.
+*   **LinkedIn Sales Navigator:** Permite busca avançada de empresas com filtros detalhados.
+*   **Kompass:** Banco de dados B2B com informações de empresas em diversos países.
+*   **OpenCorporates:** Base de dados aberta com informações de empresas em todo o mundo.
+*   **GuiaBolso Empresas:** (Brasil) Permite buscar empresas por CNPJ e obter informações financeiras.
+*   **Jusbrasil:** (Brasil) Oferece informações sobre processos judiciais e dados cadastrais de empresas."
+89,48,428,1° ano do ensino médio. O que devo aprender pra me preparar pro mercado de trabalho?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende das areas de interesse e demanda do mercado,grau 3,pergunta opinativa e aberta,Simplesmente estudar o que se é ministrado em sala de aula. Ainda é cedo para pensar no mercado de trabalho. ;,"Estatística básica, finanças pessoais, comunicação (oral e escrita), informática (pacote Office e ferramentas de pesquisa), e uma segunda língua (inglês é fundamental). Além disso, desenvolva habilidades como resolução de problemas, trabalho em equipe e pensamento crítico."
+90,49,43,Como organizar e planejar os estudos?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,existem varias tecnicas mas depende do individuo,grau 3,pergunta opinativa e aberta,Fazer um horário de estudos ao qual engloba todas as matérias de interesse.;,"Estatística básica, finanças pessoais, comunicação (oral e escrita), informática (pacote Office e ferramentas de pesquisa), e uma segunda língua (inglês é fundamental). Além disso, desenvolva habilidades como resolução de problemas, trabalho em equipe e pensamento crítico."
+94,53,211,Gere anúncios atraentes para suas campanhas do Google para empresa de moda intima,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,nao aplicavel,grau 3,pergunta nao e causal e e criativa,Fique mais linda apenas usando sua loungerie.;,"
+*   **Título:** Lingerie que te Empodera | Frete Grátis
+    **Descrição:** Sinta-se linda e confiante. Nova coleção com peças incríveis e o melhor: frete grátis!
+*   **Título:** Conforto e Elegância em Lingerie
+    **Descrição:** Descubra a combinação perfeita de conforto e sofisticação. Peças que valorizam suas curvas.
+*   **Título:** Promoção Imperdível em Lingerie!
+    **Descrição:** Descontos exclusivos em toda a loja! Renove seu guarda-roupa íntimo com preços incríveis.
+*   **Título:** Lingerie para Todas as Ocasiões
+    **Descrição:** Do básico ao sofisticado, encontre a lingerie ideal para cada momento.
+*   **Título:** Sutiãs Perfeitos para Você
+    **Descrição:** Modelagem impecável, conforto e sustentação. Encontre o sutiã ideal para o seu corpo."
+100,59,642,Com as APIs do ChatGPT eu consigo criar um bot que se conecta com o inventário da loja e sugere produtos para o cliente segundo a sua necessidade?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta tecnica e objetiva,nao e possivel responder dentro do tema especificado,grau 3,pergunta nao relacionada ao tema e aberta,Sim consegue.;,"
+
+Sim, é possível criar um bot com as APIs do ChatGPT que se conecta ao inventário da sua loja e sugere produtos com base nas necessidades do cliente. Você precisará integrar as APIs do ChatGPT com a API do seu sistema de inventário e implementar a lógica para interpretar as necessidades do cliente e buscar produtos relevantes."
+102,61,98,Desejo criar uma landing page para vender meu curso pela internet. Como eu faço isso?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,existem varias formas de criar uma landing page dependendo das suas habilidades e recursos,grau 3,pergunta vaga e opinativa,Seja direto e conciso focando na conversão.;,"
+
+Você pode criar uma landing page utilizando ferramentas como WordPress com plugins (Elementor, Beaver Builder), plataformas específicas para landing pages (Leadpages, Unbounce, RD Station Marketing) ou construtores de sites com templates (Wix, Squarespace). Defina o objetivo da página, crie um design atraente, escreva textos persuasivos destacando os benefícios do curso, adicione um formulário de inscrição/compra e integre com meios de pagamento.
+"
+107,66,291,é possível criar link para eu me conectar ao outro computador?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta objetiva,nao se aplica,grau 3,pergunta nao relacionada ao tema,Sim é possível.;,"
+Sim, é possível criar um link para conectar a outro computador utilizando softwares de acesso remoto como TeamViewer, AnyDesk ou através de ferramentas nativas do sistema operacional, como a Área de Trabalho Remota do Windows ou o Compartilhamento de Tela do macOS."
+111,70,735,Como estudar e trabalhar?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,depende das prioridades e disponibilidade de cada pessoa,grau 3,pergunta vaga e opinativa,Tendo muita força de vontade para mudar de vida.;,"
+Organize um cronograma detalhado, priorizando tarefas e reservando horários fixos para estudo e trabalho. Utilize técnicas de gerenciamento de tempo, como a técnica Pomodoro, e busque um ambiente de estudo tranquilo. Seja flexível para ajustar a rotina quando necessário e não se esqueça de incluir tempo para descanso e lazer."
+115,2,12,Não ter redes sociais pode ser um problema em processos seletivos para vagas de emprego/estágio?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,resposta clara,"sim, pois muitas empresas usam redes sociais para avaliar candidatos",grau 1,a resposta pode ser verificada com dados concretos,"Sim, muitas empresas pedem redes sociais como Linkedin para avaliar. ","
+
+Sim, a ausência de perfis em redes sociais pode ser vista como um dificultador em processos seletivos, pois recrutadores frequentemente utilizam essas plataformas para complementar a análise do candidato, verificar sua reputação online e obter informações adicionais sobre suas experiências e habilidades. No entanto, não é um fator eliminatório, e a qualidade do currículo e o desempenho na entrevista são mais importantes."
+116,11,65,O quanto saber alemão e francês ajuda na carreira acadêmica?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,pode ajudar em algumas areas mas nao e garantia de sucesso,grau 2,depende do contexto e area de atuacao,"Saber multíplicas linguas pode lhe ajudar no universo profissional para se comunicar com profissionais desses paises, se surgir uma oportunidade de bolsa de estudos na França ou na Alemanha.","
+Saber alemão e francês pode ser muito vantajoso na carreira acadêmica, especialmente em áreas como Humanidades, Ciências Sociais, Filosofia, História, Literatura, Teologia e Direito. O alemão é fundamental para pesquisar fontes primárias importantes em diversas disciplinas, enquanto o francês é essencial para acompanhar debates teóricos e acessar literatura relevante, além de ser uma língua importante em organizações internacionais. O domínio dessas línguas pode abrir portas para bolsas de estudo, colaborações internacionais e oportunidades de publicação."
+117,12,72,As empresas ainda contratam Júnior?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,resposta clara,"sim, empresas contratam profissionais junior",grau 1,pergunta clara e verificavel,"Sim, as empresas contratam profissionais juniores.","
+Sim, as empresas ainda contratam profissionais em nível júnior, mas o mercado tem se mostrado mais competitivo e exigente. As contratações costumam ser para posições que demandam aprendizado e desenvolvimento, com foco em potencial e adaptabilidade."
+118,19,122,Quanto tempo preciso pra elaborar um projeto de mestrado?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,depende do contexto,"o tempo varia dependendo do tema, metodologia e comprometimento do aluno",grau 2,depende do contexto e variaveis individuais,"A duração de um mestrado normalmente no Brasil é de 2 anos, mas isso vai depender da instituição e do curso. ","Depende da área, da instituição e do seu ritmo, mas geralmente leva de 18 a 24 meses."
+119,20,129,Tem alguma outra forma de conseguir bolsa de doutorado sem ser as ofertadas pelo programa de pós graduação?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"sim, existem outras formas como bolsas de agencias de fomento, empresas ou instituicoes internacionais",grau 2,depende de contexto especifico,"Sim, existem outras bolsas que são financias por empresas privadas ou pelo governo.","
+
+Sim, existem agências de fomento à pesquisa (como CNPq, CAPES, FAPESP, etc.) que oferecem bolsas diretamente aos doutorandos, independentemente da vaga no programa. Há também bolsas de organizações internacionais e fundações privadas."
+120,21,132,O que devo aprender para entrar no mercado de trabalho da programação?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"depende da area de programacao e das demandas do mercado, mas geralmente linguagens como python, java e habilidades em desenvolvimento web sao valorizadas",grau 2,depende de contexto especifico,"Normalmente se começa com linguagem de programação básicas como python, java e c++.","
+
+Sim, existem agências de fomento à pesquisa (como CNPq, CAPES, FAPESP, etc.) que oferecem bolsas diretamente aos doutorandos, independentemente da vaga no programa. Há também bolsas de organizações internacionais e fundações privadas."
+121,28,186,"Para estágio, vale a pena focar em C#?",,,,0_faculdade_fazer_emprego_trabalho,grau 2,depende do contexto,"depende da area e demanda local, mas c# e relevante para desenvolvimento de software",grau 2,depende do contexto do mercado e demanda,Depende da descrição da oferta e o que está sendo pedido no seu estágio. C# é muito usado para a área de desenvolvimento de aplicativos.,"
+
+Sim, existem agências de fomento à pesquisa (como CNPq, CAPES, FAPESP, etc.) que oferecem bolsas diretamente aos doutorandos, independentemente da vaga no programa. Há também bolsas de organizações internacionais e fundações privadas."
+122,30,189,As universidades públicas aceitam de boa mestrando que trabalha?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,depende da universidade,"sim, mas depende das regras de cada programa",grau 2,depende de politicas especificas,"Sim, normalmente bons profissionais são aceitos em faculdades públicas mas é bom ter uma boa relação com um professor e passar no concurso de admissão do mestrado.","
+Sim, as universidades públicas geralmente aceitam candidatos com mestrado que trabalham, mas a compatibilidade dependerá da carga horária do trabalho e da dedicação exigida pelo programa de mestrado. Alguns programas podem ter restrições ou exigir uma carta de compromisso do empregador."
+123,31,190,É difícil conseguir emprego ou estágio no mestrado?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,depende do contexto,a dificuldade varia dependendo da area de estudo e da demanda do mercado de trabalho,grau 2,depende de variaveis como area de estudo e mercado,Depende da sua área de atuação.,"
+A dificuldade de conseguir emprego ou estágio durante o mestrado varia conforme a área, a instituição e o perfil do candidato. Em geral, áreas com alta demanda no mercado e programas de mestrado bem avaliados tendem a oferecer mais oportunidades. Um bom desempenho acadêmico, experiência prévia e networking também facilitam o processo."
+124,46,287,"Para os devs que fizeram ou fazem graduação em TI, como conciliaram os estudos da faculdade e o estudo por fora?",,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,as estrategias variam muito de pessoa para pessoa,grau 3,pergunta opinativa e aberta,Organize seu tempo fazendo agenda das atividades que você tem que completar por dia e semanas. Priorize as atividades mais importantes.,"
+
+Muitos devs conciliam graduação e estudo por fora focando em projetos práticos, cursos online complementares e participação em comunidades. A organização do tempo, com horários dedicados a cada atividade, e a escolha de tecnologias alinhadas aos objetivos de carreira são estratégias comuns. Alguns optam por estágios que permitam aprendizado contínuo e aplicação dos conhecimentos teóricos."
+125,55,356,Consigo trancar a faculdade e reativar ao achar um estágio?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,regra institucional,"sim, geralmente e possivel trancar a faculdade e reativar depois",grau 1,pergunta tem resposta clara e verificavel,"sim, geralmente você consegue reativar um trancamento mas depende da regra da instituição","
+
+Sim, é possível trancar a faculdade e reativá-la posteriormente, geralmente com a apresentação de um comprovante de estágio. As regras e prazos para esses procedimentos variam conforme a instituição de ensino, sendo necessário verificar o regulamento da sua faculdade."
+126,56,359,Doutorado no exterior faz diferença para carreira de professor?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,resposta objetiva possivel,pode fazer diferenca dependendo da instituicao e area de atuacao,grau 2,depende do contexto e mercado,"Sim, um doutorado no exterior pode ser uma boa forma de um professor se destacar no mercado academico e de aprofundar seus estudos.","
+
+Sim, um doutorado no exterior geralmente faz diferença para a carreira de professor, sendo frequentemente um requisito para posições em universidades de maior prestígio e pesquisa. Além disso, pode agregar valor ao currículo, demonstrando experiência internacional e acesso a diferentes perspectivas acadêmicas."
+127,67,420,É possível combinar Economia e Programação/Data Science sem trocar de curso?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,pergunta objetiva,"sim, pode ser feito atraves de disciplinas optativas ou cursos complementares",grau 2,depende de contexto especifico,"Sim, pode-se cursar duas graduações em paralelo dependendo das grades curriculares e horários.","
+Sim, é possível. Muitas universidades oferecem disciplinas eletivas ou a possibilidade de complementar o currículo de Economia com cursos de Programação e Data Science. Além disso, há cursos de pós-graduação que combinam as duas áreas, e a combinação pode ser feita de forma autodidata com cursos online e projetos pessoais."
+128,72,449,O quão importante é o histórico das disciplinas do mestrado para o doutorado?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,depende do contexto,"o historico das disciplinas do mestrado pode ser importante para o doutorado, dependendo do programa e das exigencias da instituicao",grau 2,depende do contexto academico,"Depende da instituição de ensino, mas em geral o histórico do curso de mestrado é um documento necessário para ingressar no doutorado. Dependendo da concorrência as suas notas podem fazer você se destacar no processo de admissão. ","
+O histórico do mestrado é um componente crucial para a admissão no doutorado, pois demonstra a capacidade do candidato de realizar pesquisa acadêmica, aprofundar-se em um tema específico e produzir conhecimento original. As disciplinas cursadas, as notas obtidas e a qualidade da instituição de origem são avaliadas para determinar o preparo do candidato para os desafios do doutorado."
+129,73,452,"Ao sair de uma empresa, é errado levar alguns códigos ou algoritmos consigo para base de conhecimento pessoal?",,,,0_faculdade_fazer_emprego_trabalho,grau 2,depende do contexto,nao ha resposta objetiva unica pois depende de acordos contratuais e leis de propriedade intelectual,grau 3,pergunta envolve opinioes e contextos especificos,Se você assinou um termo de confidencialidade e propriedade intelectual sim. ,"
+Sim, é errado. Códigos e algoritmos desenvolvidos durante o contrato de trabalho são propriedade da empresa, e levá-los configura violação de direitos autorais e quebra de confidencialidade, podendo gerar consequências legais."
+130,78,489,Experiências profissionais contam no mundo acadêmico?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,resposta clara,"sim, mas varia por instituicao e programa",grau 2,depende do contexto especifico,"Sim, experiencias profissionais também são uma oportunidade de crescimento.","
+Sim, experiências profissionais podem ser valiosas no mundo acadêmico, complementando a formação teórica com habilidades práticas, visão crítica e temas para pesquisa."
+131,89,585,É possível fazer uma faculdade EAD enquanto está na europa?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,resposta clara,"sim, e possivel fazer faculdade ead enquanto esta na europa desde que a instituicao ofereca essa modalidade e o aluno cumpra os requisitos",grau 1,pergunta tem resposta clara e verificavel,"Sim, dependo se voce conciliar a diferença de horario para as aulas e dependendo das regras da instituição.","
+Sim, experiências profissionais podem ser valiosas no mundo acadêmico, complementando a formação teórica com habilidades práticas, visão crítica e temas para pesquisa."
+132,118,747,Qual faculdade para seguir carreira como recrutadora? Principalmente se o foco for empresas de tecnologia e trabalho home office?,,,,0_faculdade_fazer_emprego_trabalho,grau 2,necessidade de contexto,"cursos como recursos humanos, psicologia ou administracao podem ser relevantes. para empresas de tecnologia, conhecimento em informatica tambem e valioso.",grau 2,depende de contexto especifico,Para a carreira de recrutadora normalmente curso de recursos humanos e administração.,"Door Administração, Psicologia e Gestão de Recursos Humanos são as formações mais comuns para quem busca a carreira de recrutamento. Para o foco em tecnologia e home office, é interessante complementar a graduação com cursos de tecnologia, recrutamento digital e gestão de equipes remotas."
+133,120,753,Quão importante é o currículo para seleção de mestrado?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,importancia do curriculo,o currículo é importante mas a relevancia varia entre programas,grau 2,depende de variaveis como instituicao e programa,"Em geral o currículo é bem importante para qualquer seleção, mas depende do curso e instituição.","
+O currículo é um componente crucial na seleção de mestrado, pois demonstra sua trajetória acadêmica e profissional, qualificando-o para a área de estudo desejada. Avaliadores buscam experiências relevantes, publicações, projetos e habilidades que evidenciem seu potencial para o programa."
+134,123,762,Preciso de ajuda dos fotógrafos profissionais. Preciso de graduação ou não para atuar na área?,,,,0_faculdade_fazer_emprego_trabalho,grau 1,resposta clara e objetiva,"nao necessariamente, mas pode ajudar em alguns casos",grau 2,depende do contexto e mercado,"Não necessariamente, mas um curso ou graduação pode lhe ajudar a se destacar no mercado.","artes visuais, publicidade e áreas afins podem ser vantajosas, mas não são obrigatórias. A experiência prática, um bom portfólio e networking são cruciais para o sucesso na profissão."
