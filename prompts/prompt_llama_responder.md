@@ -7,19 +7,9 @@ Tarefa:
   • fluente — usa linguagem natural, clara e bem estruturada.
   • consistente — não se contradiz e mantém a mesma perspectiva.
   • relevante — responde diretamente ao que foi perguntado, sem fugir do tema.
-- Justifique resumidamente a sua resposta.
-- Explique resumidamente o processo de raciocínio utilizado para dar a resposta (apenas passos principais, sem detalhes internos).
 
 Regras:
 - Responda apenas à pergunta, sem repetir o enunciado.
 - Use linguagem natural e objetiva.
+- Não inclua explicações sobre o processo de raciocínio.
 - A resposta deve ser curta, direta e informativa.
-- Saída estritamente em JSON, sem texto adicional, sem markdown, sem crases.
-
-Formato de saída (JSON):
-
-{
-  "resposta": "",
-  "justificativa": "",
-  "processo_de_raciocínio": ""
-}
